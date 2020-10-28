@@ -26,20 +26,13 @@
 5.核心代码：
 if(B1.getCourses().getCourseName()==null) {
 			
-		     System.out.println("学生已经退课");
+     System.out.println("学生已经退课");
 		     
-		}else 
-			
-		{
-			                     
-		System.out.println(A1);
-		System.out.println(B1);}
-		   
-		
-	}
+}else {
+     System.out.println(A1);
+     System.out.println(B1);}
+}
 
-6.注释：
 
-7.系统运行截图：
 
 8.编程感想:（1）在该实验中，学会定义类中的属性和方法。学会使用super()、get,set方法、掌握类的继承用法并在测试类中实例化了多个类实体。（2）我碰到的问题是逻辑运算，如何模拟学生退课操作。解决方法是通过查阅资料书和网上搜索相关解决方法及同学的有力帮助。

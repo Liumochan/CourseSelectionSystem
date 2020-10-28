@@ -15,7 +15,7 @@
      创建Personnel,Teacher,Student,Course,Text五个类，满足以下要求：
    1.先建一个Personnel类，personnel是父类。定义了 编号、姓名、性别、年龄。设置set/get方法，使用toString方法打印输出。创建有参和无参构造方法。
    2.老师模块-子类
-     建一个Teacher类，teacher是子类。teacher继承了父类的编号、姓名、性别、年龄，又定义了课程名称、老师职称、老师部门3个属性。设置set/get方法，使用toString方法打印输出。创建      有参和无参构造方法。
+     建一个Teacher类，teacher是子类。teacher继承了父类的编号、姓名、性别、年龄，又定义了课程名称、老师职称、老师部门3个属性。设置set/get方法，使用toString方法打印输出。创      建有参和无参构造方法。
    3.学生模块-子类
      建一个Student类，student是子类。student继承了父类的编号、姓名、性别、年龄，又定义了学生所选的课程信息。设置set/get方法，使用toString方法打印输出。创建有参和无参构造法。
    4.选课信息

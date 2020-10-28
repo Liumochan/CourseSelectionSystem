@@ -35,7 +35,7 @@
 		   }
 		   
 ## 5.系统运行截图：
-![图片](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kg0VsneTCFoTmn3V6XzKbLCozAl6vT7Wf8B6SpXyChwE/0)
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kg0VsneTCFoTmn3V6XzKbLCozAl6vT7Wf8B6SpXyChwE/0)
 
 ## 6.编程感想:
      (1). 在该实验中，学会定义类中的属性和方法。学会使用super()、get,set方法、掌握类的继承用法并在测试类中实例化了多个类实体。

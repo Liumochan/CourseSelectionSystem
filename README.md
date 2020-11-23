@@ -39,4 +39,4 @@
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kg0VsneTCFoQ2cPKTtLjYdQmicHRgpqKo8Ou4vOibFZW78/0)
 ## 6.编程感想:
      (1). 在该实验中，学会定义类中的属性和方法。学会使用super()、get,set方法、掌握类的继承用法并在测试类中实例化了多个类实体。
-     (2). 我碰到的问题是逻辑运算，如何模拟学生退课操作。解决方法是通过查阅资料书和网上搜索相关解决方法及同学的有力帮助。 
+     (2). 我碰到的问题是逻辑运算，如何模拟学生退课操作。解决方法是通过查阅资料书和网上搜索相关解决方法及同学的有力帮助。

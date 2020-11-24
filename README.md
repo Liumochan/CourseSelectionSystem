@@ -35,7 +35,7 @@
 		   }
 		   
 ## 5.系统运行截图：
-![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8krgC3EC4MKcRyfWt3AcWDLHibT3rN8kbiavxPfFdOGtloA/0)
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/ysAZ3LyGh0MczupEarmpLAHFeen8VUibdKJhbQFQbWvClRN8l2EDK3ibITkMbBNHLv/0)
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/ZqDaDiccbgkhaTQicGw5jUDl2Qc6ibngZEeuiapJqmVian3lSuE8ibKbzSYasVEbCpiciaa90KFZAzLECU4/0)
 ## 6.编程感想:
      (1). 在该实验中，学会定义类中的属性和方法。学会使用super()、get,set方法、掌握类的继承用法并在测试类中实例化了多个类实体。
